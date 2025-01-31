@@ -98,7 +98,7 @@ const initialSvgHeight = 1000; // Initial height, used for scaling
 // Colors
 const boxFillColor = "#F4FBFF";
 const boxStrokeColor = "#484B50";
-const dotFillColor = "#F28360";
+const dotFillColor = "#09090A";
 const lineStrokeColor = "#484B50";
 const fontFamily = "mono";
 
